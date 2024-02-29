@@ -1,0 +1,10 @@
+the following are the dependencies i used in the project.
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+Dicision tree classifier
+K nearest classifier
+SVM
+Logistic Regression
+scikit-learn
